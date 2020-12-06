@@ -1,0 +1,3 @@
+[submodule "insecure-php-example"]
+	path = insecure-php-example
+	url = https://github.com/rickogden/insecure-php-example
